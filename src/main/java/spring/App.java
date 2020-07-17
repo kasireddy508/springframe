@@ -12,5 +12,5 @@ public class App
     }
 }
 printf {
-    kasi
+    Hello world
 }
